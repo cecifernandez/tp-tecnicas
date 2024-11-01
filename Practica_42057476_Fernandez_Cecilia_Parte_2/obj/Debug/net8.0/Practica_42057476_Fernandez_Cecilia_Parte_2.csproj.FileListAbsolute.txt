@@ -1,0 +1,15 @@
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\bin\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.exe
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\bin\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.deps.json
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\bin\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.runtimeconfig.json
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\bin\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.dll
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\bin\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.pdb
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.AssemblyInfoInputs.cache
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.AssemblyInfo.cs
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.dll
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\refint\Practica_42057476_Fernandez_Cecilia_Parte_2.dll
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.pdb
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.genruntimeconfig.cache
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\ref\Practica_42057476_Fernandez_Cecilia_Parte_2.dll
+C:\Users\fvg\Downloads\Practica_42057476_Fernandez_Cecilia_Parte_2\obj\Debug\net8.0\Practica_42057476_Fernandez_Cecilia_Parte_2.sourcelink.json
